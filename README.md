@@ -1,3 +1,4 @@
 # OOP
- 2022 huangminieOOP homework.
-### first edited on May 27th 2022.
+> 2022年THUCS黄民烈老师的OOP课程
+
+- 代码写的很水，但是OJ应该都拿到满分了。
